@@ -6,11 +6,11 @@ Para acessar ao desafio [Clique AQUI](https://codeclayton.github.io/QR-Code-Chal
 
 ## Preview
 
--Versão Desktop
+**-Versão Desktop**
 
 ![Preview Desktop](images/preview-desk.png)
 
--Versão Mobile
+**-Versão Mobile**
 
 ![Preview mobile](images/preview-mob.png)
 --
