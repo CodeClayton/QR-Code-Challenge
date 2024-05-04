@@ -12,5 +12,5 @@ Para acessar ao desafio [Clique AQUI](https://codeclayton.github.io/QR-Code-Chal
 
 -Versão Mobile
 
-![Preview mobile](images/preview-mob.png.png)
+![Preview mobile](images/preview-mob.png)
 --
